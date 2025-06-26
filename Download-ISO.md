@@ -17,12 +17,13 @@ Link: [microsoft.com/pt-br/software-download/windows10ISO](https://www.microsoft
        <br>
     3. Na barra superior, clique em: 
        <br>
-<img src="https://github.com/user-attachments/assets/02b67def-e345-45db-b76e-4f319dbc77ce" width="400" style="display: block; margin; auto;"> 
-<br>
+       
+<img src="https://github.com/user-attachments/assets/02b67def-e345-45db-b76e-4f319dbc77ce" width="400" style="display: block; margin; auto;">
+    <br>
     4. Desassinale a opção **Usar o padrão do navegador** e selecione a opção **Chrome - iPad**, como na imagem abaixo: 
     <br>
 <img src="https://github.com/user-attachments/assets/d18e8aa9-ec7c-4254-96c9-b03345dacac6" width="400" style="display: block; margin; auto;">
-    <br>
-    5. Recarregue a página
    <br>
-    6. Selecione Windows 10 (ISO) > Confirme > Selecione o idioma > Confirme
+   5. Recarregue a página
+   <br>
+   6. Selecione Windows 10 (ISO) > Confirme > Selecione o idioma > Confirme
